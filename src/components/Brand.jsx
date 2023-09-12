@@ -2,8 +2,8 @@ const Brand = () => {
     return (
         <a className="navbar-brand" href="#">
             ROKI
-            </a>
+        </a>
     );
-}; 
+};
 
 export default Brand;

@@ -8,8 +8,8 @@ function App() {
   return (
     <>
       <div>
-        <NavBar/>
-        <HolaMundo saludo= "Hola mundo...!" />
+        <NavBar />
+        <HolaMundo saludo="Hola mundo...!" />
       </div>
     </>
   )

@@ -1,9 +1,9 @@
-const HolaMundo = ({saludo}) =>{
-  return(
+const HolaMundo = ({ saludo }) => {
+  return (
     <div className="container">
-        {saludo}
-    </div>  
-  );  
+      {saludo}
+    </div>
+  );
 };
 
 export default HolaMundo;
